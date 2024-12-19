@@ -1,0 +1,12 @@
+new file
+os
+lab05
+user
+new
+lab03
+lab04
+lab6
+labwork
+report
+lastfile
+

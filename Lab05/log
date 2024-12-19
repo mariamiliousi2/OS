@@ -1,0 +1,75 @@
+/home/miliousi/Lab05
+example1.c
+example2.c
+example3.c
+example4.c
+example5.c
+example6.c
+log
+-bash: cd: /path/to/directory: No such file or directory
+-bash: cd: /path/to/directory: No such file or directory
+
+Command 'start' not found, did you mean:
+
+  command 'stat' from deb coreutils (8.30-3ubuntu2)
+  command 'tart' from deb tart (3.10-1build1)
+  command 'startx' from deb xinit (1.4.1-0ubuntu2)
+  command 'rstart' from deb x11-session-utils (7.7+4)
+
+Try: apt install <deb name>
+
+  File: filename
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 811h/2065d	Inode: 411088      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1292/miliousi)   Gid: ( 1294/miliousi)
+Access: 2024-12-19 13:05:38.750967086 +0200
+Modify: 2024-12-19 13:05:38.750967086 +0200
+Change: 2024-12-19 13:05:38.750967086 +0200
+ Birth: -
+rm: cannot remove 'file1.txt': No such file or directory
+rmdir: failed to remove 'path': Directory not empty
+cat: file.txt: No such file or directory
+new file
+os
+lab05
+user
+new
+lab03
+lab04
+lab6
+labwork
+report
+lastfile
+
+new file
+os
+lab05
+user
+new
+lab03
+lab04
+lab6
+labwork
+report
+lastfile
+
+new file
+os
+lab05
+user
+new
+lab03
+lab04
+lab6
+labwork
+report
+lab05
+user
+new
+lab03
+lab04
+lab6
+labwork
+report
+lastfile
+
