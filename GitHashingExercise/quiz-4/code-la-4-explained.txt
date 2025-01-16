@@ -1,0 +1,3 @@
+i) How all codes are executed: Describe the steps to compile and execute the code.
+ii) Example usage and output: Show example commands and their output.
+iii) Brief explanation of the C code: Explain the purpose and functionality.
